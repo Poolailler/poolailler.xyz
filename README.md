@@ -10,5 +10,7 @@ Please install node and then run:
 npm init -y
 npm install bootstrap@5.2.0-beta1
 npm install @popperjs/core
-npm run dev
+npm run start
 ```
+
+To deploy, please run: `npm run deploy`
